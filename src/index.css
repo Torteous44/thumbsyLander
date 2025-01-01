@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.manrope-font {
+  font-family: "Manrope", serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
